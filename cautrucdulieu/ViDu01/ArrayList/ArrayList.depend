@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1629894686 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan2/ViDu01/ArrayList/main.cpp
+	<iostream>
+	"ArrayList.h"
+
+1629894649 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan2/ViDu01/ArrayList/ArrayList.cpp
+	"ArrayList.h"
+
+1629894633 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan2/ViDu01/ArrayList/ArrayList.h
+	<iostream>
+
+1629894686 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan2/Vi_Du_Danh_Cho_Tren_Lop/ViDu01/ArrayList/main.cpp
+	<iostream>
+	"ArrayList.h"
+
+1631615061 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan2/Vi_Du_Danh_Cho_Tren_Lop/ViDu01/ArrayList/ArrayList.h
+	<iostream>
+
