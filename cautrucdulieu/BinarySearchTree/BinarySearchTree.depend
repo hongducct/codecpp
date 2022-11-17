@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1635412264 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/BinarySearchTree.cpp
+	"BinarySearchTree.h"
+
+1635412247 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/BinarySearchTree.h
+	<iostream>
+	<cassert>
+	"BinaryTreeNode.h"
+	"BinaryTree.h"
+
+1635411396 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/BinaryTreeNode.h
+
+1635411517 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/BinaryTree.h
+	<iostream>
+	"BinaryTreeNode.h"
+
+1635411159 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/BinaryTree.cpp
+	"BinaryTree.h"
+
+1635412343 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan7/Vi_Du_Tham_Khao/ViDu02/BinarySearchTree/main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+

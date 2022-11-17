@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635695208 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan8/Vi_Du_Tham_Khao/ViDu01/AVLTree/main.cpp
+	<iostream>
+	"AVLTree.h"
+
+1635772864 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan8/Vi_Du_Tham_Khao/ViDu01/AVLTree/AVLTree.h
+	<iostream>
+	<cassert>
+	"AVLNode.h"
+
+1635693929 /run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan8/Vi_Du_Tham_Khao/ViDu01/AVLTree/AVLNode.h
+
+1635695182 source:/run/media/tminh/Data/tdminh/GiangDay/CTDL/Slides/Tuan8/Vi_Du_Tham_Khao/ViDu01/AVLTree/AVLTree.cpp
+	"AVLTree.h"
+
